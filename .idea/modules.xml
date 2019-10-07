@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WeiFuWuTest.iml" filepath="$PROJECT_DIR$/WeiFuWuTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudprovider/cloudprovider.iml" filepath="$PROJECT_DIR$/cloudprovider/cloudprovider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cloudserver/cloudserver.iml" filepath="$PROJECT_DIR$/cloudserver/cloudserver.iml" />
+    </modules>
+  </component>
+</project>
